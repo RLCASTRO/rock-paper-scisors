@@ -1,1 +1,1 @@
-# rock-paper-scisors
+# rock-paper-scisors - https://rlcastro.github.io/rock-paper-scisors/
